@@ -1,0 +1,2 @@
+main_token = '13babe0f3e6ddb010224d1ff68a6d8ebd4118b576a66fc5105ea05ba3c97265c30072a9aec0426f01e5d3'
+weather_token = 'c33406334cf075dbd650847df2eb3ef4'
